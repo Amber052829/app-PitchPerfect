@@ -8,7 +8,7 @@ This repository was setup for a [Udacity](https://www.udacity.com/) code reviewe
 
 ## Author
 
-**Sean Magrann** - AT&T Services, Inc. | Emerging Technologies
+**AMBER SETHI
 
 ## Acknowledgements
 
